@@ -67,7 +67,7 @@ export default function Footer() {
               <div className="flex items-start gap-3">
                 <Phone size={20} className="text-ring mt-1" />
                 <div>
-                  <p className="text-primary-foreground/80">+91 98765 43210</p>
+                  <p className="text-primary-foreground/80">+91 70034 04136</p>
                   <p className="text-sm text-primary-foreground/60">24/7 Available</p>
                 </div>
               </div>
@@ -78,7 +78,7 @@ export default function Footer() {
               <div className="flex items-start gap-3">
                 <MapPin size={20} className="text-ring mt-1" />
                 <p className="text-primary-foreground/80">
-                  Mumbai, Maharashtra, India
+                  Kolkata, West Bengal, India
                 </p>
               </div>
             </div>
